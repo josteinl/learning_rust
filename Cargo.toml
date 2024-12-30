@@ -4,3 +4,4 @@ members = [
     "fibonacci",
     # Add more projects here
 ]
+resolver = "2"
