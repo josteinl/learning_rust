@@ -1,7 +1,7 @@
 [workspace]
 members = [
     "guessing_game",
-    "fibonacci",
+    "fibonacci", "temp_f_to_c",
     # Add more projects here
 ]
 resolver = "2"
